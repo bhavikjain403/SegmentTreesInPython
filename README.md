@@ -1,1 +1,1 @@
-# SegmentTreesInPython
+## Some Segment Tree templates in Python
